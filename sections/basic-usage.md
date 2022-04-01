@@ -125,7 +125,7 @@ Cette commande classera les modifications de fichiers en trois sections :
 
 > **Manipulation** : Modifiez le fichier README.md de ce projet, et lancez un `git status`.
 >
-> Le fichier modifié apparaîtra dans le répertoire de travail.
+> Le fichier modifié apparaîtra dans le répertoire de travail (on espere).
 
 ### Versionner un changement
 
